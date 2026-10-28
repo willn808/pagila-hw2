@@ -2,6 +2,7 @@
 
 This is the second SQL homework in CMC's CSCI143: Big Data class.
 
+ [![](https://github.com/willn808/pagila-hw2/workflows/tests/badge.svg)](https://github.com/willn808/pagila-hw2/actions)
 ## Tasks
 
 1. Recall that [git is not github](https://pedrorijo.com/blog/git-init/#what-is-not-git).
